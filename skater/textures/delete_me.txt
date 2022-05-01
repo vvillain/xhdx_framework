@@ -1,0 +1,3 @@
+1. delete this file
+2. replace with images from ../_modkits/
+3. select _mod.json + skater/ and compress to new mod.zip
